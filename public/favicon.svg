@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="16" fill="#080808"/>
+  <rect x="0.5" y="0.5" width="63" height="63" rx="15.5" stroke="rgba(255,255,255,0.15)"/>
+  <!-- Sleek Editorial E Glyphs -->
+  <path d="M18 16H46V22H26V28H42V34H26V42H46V48H18V16Z" fill="#F5F5F2"/>
+  <circle cx="48" cy="18" r="2.5" fill="#FFFFFF"/>
+</svg>
