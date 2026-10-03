@@ -12,7 +12,7 @@ export const Contact = forwardRef<ContactRef, {}>((_, ref) => {
     name: '',
     email: '',
     projectType: 'Website',
-    budget: '$2k - $5k',
+    budget: '₹20,000 – ₹50,000',
     message: '',
   })
 
@@ -46,7 +46,7 @@ export const Contact = forwardRef<ContactRef, {}>((_, ref) => {
     'Other',
   ]
 
-  const budgets = ['< $2,000', '$2,000 – $5,000', '$5,000 – $10,000', '$10,000+']
+  const budgets = ['< ₹20,000', '₹20,000 – ₹50,000', '₹50,000 – ₹1,00,000', '₹1,00,000+']
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
@@ -68,7 +68,7 @@ export const Contact = forwardRef<ContactRef, {}>((_, ref) => {
           name: '',
           email: '',
           projectType: 'Website',
-          budget: '$2k - $5k',
+          budget: '₹20,000 – ₹50,000',
           message: '',
         })
       }, 5000)
@@ -132,7 +132,7 @@ export const Contact = forwardRef<ContactRef, {}>((_, ref) => {
                 </span>
                 <div className="flex flex-wrap gap-3">
                   <a
-                    href="https://github.com/DakshBabbar"
+                    href="https://github.com/daksh7064mca25-hub"
                     target="_blank"
                     rel="noreferrer"
                     data-cursor="GITHUB"
@@ -152,7 +152,7 @@ export const Contact = forwardRef<ContactRef, {}>((_, ref) => {
                     <span>LINKEDIN</span>
                   </a>
                   <a
-                    href="https://instagram.com"
+                    href="https://www.instagram.com/experto_visuals/"
                     target="_blank"
                     rel="noreferrer"
                     data-cursor="INSTAGRAM"

@@ -31,7 +31,7 @@ export const projectsData: Project[] = [
     image: '/images/projects/employee-management.jpg',
     accentColor: '#38bdf8',
     liveUrl: 'https://employee-leave-and-asset-management.vercel.app/login',
-    githubUrl: 'https://github.com/DakshBabbar/'
+    githubUrl: 'https://github.com/daksh7064mca25-hub'
   },
   {
     id: 'saas-stripe-gateway',
@@ -62,7 +62,7 @@ export const projectsData: Project[] = [
     image: '/images/projects/saas-stripe.jpg',
     accentColor: '#818cf8',
     liveUrl: 'https://plans-and-stripe-management-system.vercel.app/',
-    githubUrl: 'https://github.com/DakshBabbar/'
+    githubUrl: 'https://github.com/daksh7064mca25-hub'
   },
   {
     id: 'geo-restaurant-finder',
@@ -93,7 +93,7 @@ export const projectsData: Project[] = [
     image: '/images/projects/geo-restaurant-finder.jpg',
     accentColor: '#34d399',
     liveUrl: '', // Ready for live deployment URL
-    githubUrl: 'https://github.com/DakshBabbar/'
+    githubUrl: 'https://github.com/daksh7064mca25-hub'
   },
   {
     id: 'prepai',
@@ -123,6 +123,6 @@ export const projectsData: Project[] = [
     image: '/images/projects/prepai.jpg',
     accentColor: '#10b981',
     liveUrl: 'https://prepai-ecru.vercel.app/',
-    githubUrl: 'https://github.com/DakshBabbar/'
+    githubUrl: 'https://github.com/daksh7064mca25-hub'
   }
 ]
