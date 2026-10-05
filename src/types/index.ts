@@ -48,5 +48,8 @@ export interface InquiryFormData {
   email: string
   projectType: string
   budget: string
+  timeline?: string
   message: string
+  description?: string
 }
+
