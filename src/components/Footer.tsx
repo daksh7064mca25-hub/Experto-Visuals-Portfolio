@@ -50,7 +50,7 @@ export const Footer: React.FC = () => {
         {/* Back to top & Copyright */}
         <div className="flex items-center gap-6">
           <span className="text-xs font-mono text-[#777777]">
-            © {new Date().getFullYear()} DAKSH BABBAR
+            © {new Date().getFullYear()} Experto Visuals
           </span>
 
           <button
